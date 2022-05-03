@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
         textTheme: ThemeData.light().textTheme.copyWith(
           titleSmall: TextStyle(
-            fontSize: 14,
+            fontSize: 12,
             fontFamily: 'Raleway',
           ),
           titleMedium: TextStyle(
